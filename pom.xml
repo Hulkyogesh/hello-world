@@ -6,7 +6,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-release</version>
+  <version>1.0-Snapshot</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -30,12 +30,12 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://13.233.127.176:8081/repository/Java-prj-release/</url>
+      <url>http://13.127.247.82:8081/repository/Java-prj-release/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://13.233.127.176:8081/repository/Java-prj-snapshot/</url>
+      <url>http://13.127.247.82:8081/repository/Java-prj-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
