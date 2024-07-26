@@ -30,12 +30,12 @@
     <repository>
       <id>nexus-release</id>
       <name>Releases</name>
-      <url>http://35.154.48.78:8081/repository/java-p-release/</url>
+      <url>http://65.2.78.202:9980/repository/Java-release/</url>
     </repository>
     <snapshotRepository>
       <id>nexus-snapshot</id>
       <name>Snapshot</name>
-      <url>http://35.154.48.78:8081/repository/java-p-snapshot/</url>
+      <url>http://65.2.78.202:9980/repository/Java-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
