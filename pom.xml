@@ -30,12 +30,12 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://65.0.107.192:8081/repository/Java-prj-release/</url>
+      <url>http://13.127.54.39:8081/repository/Java-prj-release/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://65.0.107.192:8081/repository/Java-prj-snapshot/</url>
+      <url>http://13.127.54.39:8081/repository/Java-prj-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
