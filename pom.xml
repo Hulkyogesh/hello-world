@@ -28,14 +28,14 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
     <repository>
-      <id>nexus_releases</id>
+      <id>nexus</id>
       <name>Releases</name>
-      <url>http://13.232.205.191:9980/repository/maven-snapshots/</url>
+      <url>http://13.201.188.143:8081/repository/Hello-World-release/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus_snapshots</id>
+      <id>nexus</id>
       <name>Snapshots</name>
-      <url>http://13.232.205.191:9980/repository/maven-snapshots/</url>
+      <url>http://13.201.188.143:8081/repository/Hello-World-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
